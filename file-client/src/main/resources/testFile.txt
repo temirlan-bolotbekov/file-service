@@ -1,0 +1,1 @@
+Its text for test for servlets FileUploadServlet, FileGetServlet
